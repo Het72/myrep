@@ -1,0 +1,8 @@
+remote.git
+1.create git account
+2.empty repo
+3.local system
+    git config --global user.name "Het72"
+    git config --global user.email "hetshah1072@gmail.com"
+4.git push -u origin master
+ 
